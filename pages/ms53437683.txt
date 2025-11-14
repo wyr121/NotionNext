@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ruioc.com",
+  "Id": "04cedefb-2898-40f6-b835-c6324c01e473"
+}
